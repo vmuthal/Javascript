@@ -1,7 +1,7 @@
 # Vue.js
 ###### Learning in a better way.
 
-**Declaration**: This document is maintened by *Vivek Muthal*. You are free to correct the mistakes.
+**Declaration**: This document is maintained by *Vivek Muthal*. You are free to correct the mistakes.
 
 
 ## Introduction
@@ -43,6 +43,6 @@ Many times there comes a situation when you want to render a HTML. For that Vue 
 
 **Why it is dangerous**
 
-If the html is not from trusted source, then it is every easy to hack things.
+If the html is not from trusted source, then it is very easy to hack things.
 
 #### [View Code](https://jsfiddle.net/vmuthal/8j7dmr0b/10/)
