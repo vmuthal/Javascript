@@ -85,7 +85,7 @@ v-for="item in items"
 This chapter covers following topics:
 * Javascript less styling
 
-One more benefit of templating is that you have to write less javascript to do various operations. You might have not have obeserved but in previous chapter we have moved the logic part of the javascript in template. Resulting in a clear understanding on what is happening on the UI. Same can be done for the conditional css.
+One more benefit of templating is that you have to write less javascript to do various operations. You might not have obeserved but in previous chapter we have moved the logic part of the javascript in template. Resulting in a clear understanding on what is happening on the UI. Same can be done for the conditional css.
 
 Please [Checkout Styling guide](https://vuejs.org/guide/class-and-style.html) to understand the different ways which can be used to style.
 
